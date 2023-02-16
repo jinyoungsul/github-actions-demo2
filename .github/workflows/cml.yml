@@ -18,3 +18,4 @@ jobs:
 
           cml comment create report.md
           cml comment create report.md
+          cml comment create report.md
